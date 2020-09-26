@@ -1,4 +1,4 @@
-# Materia-Ap_Maq
+# TP1
 Material de la materia Aprendizaje de Maquina 
 DIEC, Universidad Nacional del Sur, año:2020
 
