@@ -2,7 +2,7 @@
 Material de la materia Aprendizaje de Maquina 
 DIEC, Universidad Nacional del Sur, año:2020
 
-Se encuentran dos versiones posibles.  
+Se encuentran dos versiones posibles, junto al archivo csv que contiene la informacion para creear el dataframe con los 4 "sets" de datos.
 
 La primera:  
 [TP1_Cuarteto de Anscombe_v1:](https://github.com/GastonRAraujo/Materia-Ap_Maq/blob/master/TP1/TP1_Cuarteto_de_Anscombe.ipynb)  
