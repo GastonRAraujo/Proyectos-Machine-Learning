@@ -10,6 +10,7 @@ Pendiente por hacer: eliminar los outliers correspondientes
 
 
 Ejercicio 2:
+
 Se realizaron funciones para simplificar la comparacion al variar parametros (umbral, media de la distribucion, desvio estandar).
 Se realizaron curvas ROC, y se determinarón, utilizando la curva, el valor umbral que minimiza el error.
 Se comparó con la elección "a ojo" y que sucede al aumentar el solapamiento.
@@ -18,7 +19,9 @@ Se observó que este produce que el clasificador no logre predecir correctamente
 
 
 Ejercicio 3:
+
 (codigo en construccion)
+
 Propuestas:
 1)Realizar dos curvas roc, una para cada feature, y determinar un umbral para cada feature.
 2)Determinar una "distancia" umbral a la moda, a partir de la cual se determine que etiqueta se le asigna.
