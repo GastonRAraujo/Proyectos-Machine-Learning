@@ -1,6 +1,6 @@
 # Trabajo Practico 2
 Se encuentran ambos ejercicios por separado.
-
+#
 Ejercicio 1:
 
 Se graficó los distintos datasets sobre la situación actual en BAHIA BLANCA.
@@ -8,7 +8,7 @@ Se encontró la prescencia de outliers y de distribuciones "anormales".
 
 Pendiente por hacer: eliminar los outliers correspondientes
 
-
+#
 Ejercicio 2:
 
 Se realizaron funciones para simplificar la comparacion al variar parametros (umbral, media de la distribucion, desvio estandar).
@@ -17,7 +17,7 @@ Se comparó con la elección "a ojo" y que sucede al aumentar el solapamiento.
 
 Se observó que este produce que el clasificador no logre predecir correctamente la etiqueta.
 
-
+#
 Ejercicio 3:
 
 (codigo en construccion)
