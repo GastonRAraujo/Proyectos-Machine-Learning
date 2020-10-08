@@ -23,10 +23,9 @@ Ejercicio 3:
 (codigo en construccion)
 
 Propuestas:
-1)Realizar dos curvas roc, una para cada feature, y determinar un umbral para cada feature.
-2)Determinar una "distancia" umbral a la moda, a partir de la cual se determine que etiqueta se le asigna.
+1)Determinar una "distancia" umbral a la moda, a partir de la cual se determine que etiqueta se le asigna.
 Si se utiliza junto con alguna transformación de los datos, daria una elipse a partir de la cual los datos pertenecen a un grupo u otro.
-3)En vez de utilizar una elipse, se pueden utilizar otro tipo de funciones determinando una relacion funcional entre el umbral para cada feature:
+2)En vez de utilizar una elipse, se pueden utilizar otro tipo de funciones determinando una relacion funcional entre el umbral para cada feature:
 
 Umbral_feature2 = f(Umbral_feature1) 
 con f(x) una función continua.
