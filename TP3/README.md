@@ -18,4 +18,4 @@ Ejercicio 3:
 Se importó el dataset.csv correspondiente, y se extendió lo realizado anteriormeente para 2D pero para 14D.
 Mediante StandarScaler se normalizaron los datos y se busco, mediante GridSearch, un valor óptimo para los parámetros.
 
-Al final se repitió el codigo pero incorporando la información de banda utilizando números para determinar la misma.
+Al final se repitió el codigo pero incorporando la información de banda utilizando números para determinar la misma. Para eso se utilizó "One-Hot Encoder" pero se obtuvo una perdida del accuracy y un aumento del tiempo de entrenamiento.
