@@ -1,12 +1,12 @@
 # Trabajo Practico 4: Transacciones fraudulentas
 
-# Modelos:
+# Modelos
 
 1) KNN
 2) SVM
 3) RandomForest
 
-# Preprocesado de datos:
+# Preprocesado de datos
 Propongo dos archivos, uno en el que se ha aplicado una reducción de la dimensionalidad y otro donde no se ha realizado.
 En ambos se utilizan los tres métodos.
 
