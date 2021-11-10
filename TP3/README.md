@@ -1,4 +1,4 @@
-# Clasificacion
+# Clasificación
 Se encuentran los tres ejercicios por separado.
 #
 Clasificador KNN 2D:
