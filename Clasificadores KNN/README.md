@@ -2,6 +2,7 @@
 
 #
 Clasificador KNN 2D:
+
 Se creó un dataset 2D mediante dos datasets gausianos. Se utilizó el clasificador por vecinos cercanos de scikitlearn. 
 Luego se repitio el trabajo variando los parámetros N,K.
 
@@ -9,6 +10,7 @@ Observo una perdida de rendimiento al aumentar el tamaño de mi dataset pero man
 Por el contrario si aumentamos k (de forma controlada para evitar overfiting debido a k>>1) vemos una mejora en el rendimiento del modelo.
 #
 Clasificador KNN 2D + grid search:
+
 Se probó utilizar GridSearch que nos permite hacer crossvalidation y variar distintos parametros del modelo a utilizar sobre
 lo realizado con KNeighborsClassifier de scikitlearn.
 
