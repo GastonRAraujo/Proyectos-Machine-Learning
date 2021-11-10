@@ -1,2 +1,2 @@
-# Materia-Ap_Maq
-Material de la materia Aprendizaje de Maquina (DIEC, UNS, año:2020)
+# Proyectos de aplicación de Machine Learning
+Se han implementado diferentes algoritmos de Machine Learning en regresiones, clasificaciones y clustering...
