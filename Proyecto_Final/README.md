@@ -1,4 +1,4 @@
-# Proyecto Final
+# Evaluacion automática de ensayos
 
 En este proyecto se implementaran diferentes técnicas para procesar texto, para luego ser clasificado. Las técnicas utilizadas incluyen Stemming, Lematización, diversos tipos de vectorización, etc.
 
