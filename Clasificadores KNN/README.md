@@ -1,5 +1,5 @@
 # Clasificación
-Se encuentran los tres ejercicios por separado.
+
 #
 Clasificador KNN 2D:
 Se creó un dataset 2D mediante dos datasets gausianos. Se utilizó el clasificador por vecinos cercanos de scikitlearn. 
