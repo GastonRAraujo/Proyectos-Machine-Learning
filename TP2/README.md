@@ -1,5 +1,5 @@
 # Analisis Estadistico Simple (outliers, distribuciones anormales y curvas ROC)
-Se encuentran ambos ejercicios por separado.
+
 #
 Analisis 1:
 
